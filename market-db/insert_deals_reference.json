@@ -1,0 +1,66 @@
+[
+    {
+        "imageName": "offer1",
+        "title": "30% off on personal care",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 2,
+        "webRows": 1
+    },
+    {
+        "imageName": "offer2",
+        "title": "FLat 50% off on Shoes",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 1,
+        "webRows": 1
+    },
+    {
+        "imageName": "offer3",
+        "title": "Extended Warrenty on Electronics",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 1,
+        "webRows": 2
+    },
+    {
+        "imageName": "offer4",
+        "title": "14% discount on Grocery",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 1,
+        "webRows": 1
+    },
+    {
+        "imageName": "offer5",
+        "title": "60% off on Bags",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 1,
+        "webRows": 2
+    },
+    {
+        "imageName": "offer6",
+        "title": "FLat 50% off on Jackets",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 1,
+        "webRows": 1
+    },
+    {
+        "imageName": "offer7",
+        "title": "Buy 2 and get 1 Tshirts",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 1,
+        "webRows": 2
+    },
+    {
+        "imageName": "offer8",
+        "title": "14% discount on Perfumes",
+        "handsetCols": 2,
+        "handsetRows": 1,
+        "webCols": 1,
+        "webRows": 1
+    }
+]

@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb2"
+  },
+  "imageName": "offer1",
+  "title": "30% off on all personal care",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 2,
+  "webRows": 1
+},{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb3"
+  },
+  "imageName": "offer2",
+  "title": "FLat 50% off on Shoes",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+},{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb4"
+  },
+  "imageName": "offer3",
+  "title": "Extended Warrenty on Electronics",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 2
+},{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb5"
+  },
+  "imageName": "offer4",
+  "title": "14% discount on Grocery",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+},{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb6"
+  },
+  "imageName": "offer5",
+  "title": "60% off on Bags",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 2
+},{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb7"
+  },
+  "imageName": "offer6",
+  "title": "FLat 50% off on Jackets",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+},{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb8"
+  },
+  "imageName": "offer7",
+  "title": "Buy 2 and get 1 Tshirts",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 2
+},{
+  "_id": {
+    "$oid": "6061d339dfea640ba0e08cb9"
+  },
+  "imageName": "offer8",
+  "title": "14% discount on Perfumes",
+  "handsetCols": 2,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+}]
